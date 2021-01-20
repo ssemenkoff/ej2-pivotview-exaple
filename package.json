@@ -8,6 +8,9 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@syncfusion/ej2-vue-charts": "^18.4.35",
+    "@syncfusion/ej2-vue-grids": "^18.4.35",
+    "@syncfusion/ej2-vue-pivotview": "^18.4.35",
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
   },
